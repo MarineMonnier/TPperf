@@ -1,0 +1,123 @@
+/* AVENIR GLOBAL FONT */
+
+/* Light Font */
+@font-face {
+  font-family: 'Avenir';
+  src: url(avenir-ltstd-light.otf) format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url(avenir-ltstd-light-oblique.otf) format('opentype');
+  font-weight: 300;
+  font-style: oblique;
+}
+
+/* Regular Font */
+@font-face {
+  font-family: 'Avenir';
+  src: url(avenir-ltstd-book.otf) format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir';
+  src: url(avenir-ltstd-book-oblique.otf) format('opentype');
+  font-weight: 400;
+  font-style: oblique;
+}
+
+/* Roman Font */
+@font-face {
+  font-family: 'Avenir';
+  src: url(avenir-ltstd-roman.otf) format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir';
+  src: url(avenir-ltstd-oblique.otf) format('opentype');
+  font-weight: 500;
+  font-style: oblique;
+}
+
+/* Medium Font */
+@font-face {
+  font-family: 'Avenir';
+  src: url(AvenirLTStd-Medium.otf) format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Heavy/Bold Font */
+@font-face {
+  font-family: 'Avenir';
+  src: url(AvenirLTStd-Heavy.otf) format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Black Font */
+@font-face {
+  font-family: 'Avenir';
+  src: url(AvenirLTStd-Black.otf) format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir';
+  src: url(avenir-ltstd-black-oblique.otf) format('opentype');
+  font-weight: 800;
+  font-style: oblique;
+}
+
+/* OVERPASS FONT FOR OCCITANIE HOME PAGE TITLE */
+/* Light Font */
+@font-face {
+  font-family: 'Overpass';
+  src: url(overpass-light.otf) format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+/* Regular Font */
+@font-face {
+  font-family: 'Overpass';
+  src: url(overpass-regular.otf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+/* REGIONBRETAGNE FONT FOR BRETAGNE HOME PAGE TITLE */
+/* Medium Font */
+@font-face {
+  font-family: 'RegionBretagne';
+  src: url(RegionBretagne-Medium.otf) format('truetype');
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+}
+
+/* POLLYROUNDED FONT FOR NORMANDIE HOME PAGE TITLE */
+/* Bold Font */
+@font-face {
+  font-family: 'PollyRounded';
+  src: url(PollyRounded-Bold.otf) format('truetype');
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+}
+
+/* COREMELLOW45 FONT FOR CENTRE VAL-DE-LOIRE HOME PAGE TITLE */
+/* Regular Font */
+@font-face {
+  font-family: 'CoreMellow45';
+  src: url(CoreMellow45Regular.otf) format('truetype');
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+}

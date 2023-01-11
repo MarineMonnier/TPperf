@@ -1,0 +1,31 @@
+{
+    "name": "SNCF - TER",
+    "short_name": "SNCF - TER",
+    "description": "Une nouvelle application TER pour commander son ticket de train plus facilement",
+    "start_url": "/normandie",
+    "display": "standalone",
+    "background_color": "#f0f0f0",
+    "theme_color": "#d6d6d6",
+    "icons": [
+        {
+            "src": "/assets/app/180-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/app/192-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/app/270-icon.png",
+            "sizes": "270x270",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/app/512-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
